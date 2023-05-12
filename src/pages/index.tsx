@@ -144,9 +144,6 @@ const Index = () => {
           <FormLabel htmlFor="domain">Select Domain</FormLabel>
           <Select value={domain} onChange={handleSelectDomain}>
             <option value="tinyurl.com">tinyurl.com</option>
-            <option value="yehez.tiny.us">lrmn.tiny.us</option>
-            <option value="lrmn.tiny.us">lrmn.tiny.us</option>
-            <option value="tiny.one">tiny.one</option>
             <option value="is-a.fun">is-a.fun</option>
           </Select>
         </FormControl>
