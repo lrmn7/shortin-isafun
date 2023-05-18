@@ -25,3 +25,13 @@
 - [X] Use modal dialog as a confirmation and display the link result there.
 - [X] Update error message in modal.
 - [X] Implement unit testing based on [Next.Js Docs about testing](https://nextjs.org/docs/testing).
+
+## Support me
+
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn) free access
+- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
+- 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
+
+---
+
+Copyright © 2020 by [L RMN](https://is-a.fun/)
